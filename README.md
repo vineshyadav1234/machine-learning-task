@@ -1,5 +1,5 @@
 
-## machinelearning_Task
+## machine_learning_Task ##
 This repository contains a collection of Data Science and Machine Learning projects completed as part of the CodeAlpha Data Science Internship. The projects focus on real-world datasets and demonstrate the complete data science workflow, from data preprocessing to model evaluation and visualization. Perfect 👍 Below is a complete, professional GitHub README that covers all 3 CodeAlpha projects in a single repository. You can copy-paste this directly into README.md.
 
 📊machine_learning Projects
